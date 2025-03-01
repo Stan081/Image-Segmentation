@@ -1,2 +1,5 @@
 /AerialImageDataset/
 /tf-gpu/
+/models/
+*.keras
+.env
